@@ -1,2 +1,1 @@
-# PRO-32
-tiro con arco etapa 5
+# Plantilla del proyecto 26
